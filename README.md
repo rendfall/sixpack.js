@@ -1,4 +1,4 @@
-![sixpack.js](https://raw.github.com/rendfall/sixpack.js/master "Sixpack.js")
+![sixpack.js](https://raw.githubusercontent.com/rendfall/sixpack.js/master/logo.png "Sixpack.js")
 
 #Future is now!
 Start creating projects using EcmaScript 6 and AngularJS and whatever-you-want-more!
